@@ -1,4 +1,4 @@
-### 2021.06-09 Python sequence type의 *연산
+### 2021.06-09 Python sequence type의`*` 연산
 
 # 삼각형 별찍기
 
